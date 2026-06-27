@@ -1,0 +1,6 @@
+{
+  "name": "MetroLink Transit Dispatch Hub",
+  "description": "A high-fidelity real-time bus scheduling, dispatch, and ticketing system featuring live telemetry progress maps, energy fleet recharging, and passenger seating reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
