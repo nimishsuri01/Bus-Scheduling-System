@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Bus-Scheduling-System/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
